@@ -8,13 +8,9 @@ For this study, we are using a kaggle data for Toxic Comment Classification Chal
 
 3. Preprocess text
 
-4. Transform text to a vector
-
-Using BoW and tf-idf
+4. Transform text to a vector (Using BoW and tf-idf)
   
-5. Multilabel Classification
- 
- Using oneVsRest Classifier
+5. Multilabel Classification (Using oneVsRest Classifier)
   
 6. Evaluation
   
