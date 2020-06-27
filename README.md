@@ -1,5 +1,5 @@
 # bow_tfidf
-This project follows the traditional techniques like the Bag of Words and tf-idf to represent words in a corpus in a numeric format for multilabel classification.
+This project follows the traditional techniques like the Bag of Words and tf-idf to represent words in a corpus in a numeric format for multilabel classification. For detailed analysis please refere to the ipython notebook.
 
 1. Load the data
 For this study, we are using a kaggle data for Toxic Comment Classification Challenge. Lets load and inspect the data. This is multilabel classification problem where comments are classified by the level of toxicity: toxic / severe_toxic / obscene / threat / insult / identity_hate
